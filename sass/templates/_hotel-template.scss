@@ -1,0 +1,22 @@
+.hotel-view {
+  flex: 1;
+  height: 80rem;
+}
+
+.content {
+  display: flex;
+}
+
+.gallery {
+  display: flex;
+
+  &__photo {
+    width: 100%;
+    display: block;
+  }
+}
+
+.overview {
+  &__heading {
+  }
+}
