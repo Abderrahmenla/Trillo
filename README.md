@@ -3,4 +3,4 @@
 <br/>
 # Trillo
 
-this is an HTML template page built with SASS
+an HTML template page built with SASS
